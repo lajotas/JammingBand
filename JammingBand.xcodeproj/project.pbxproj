@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9DEF22D31B4E185C008A2637 /* JBAcentosEstilo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF22C21B4E185C008A2637 /* JBAcentosEstilo.cpp */; };
+		9DEF22D41B4E185C008A2637 /* JBBanda.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF22C41B4E185C008A2637 /* JBBanda.cpp */; };
+		9DEF22D51B4E185C008A2637 /* JBEstilos.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF22C61B4E185C008A2637 /* JBEstilos.cpp */; };
+		9DEF22D61B4E185C008A2637 /* JBForro.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF22C81B4E185C008A2637 /* JBForro.cpp */; };
+		9DEF22D71B4E185C008A2637 /* JBMusico.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF22CA1B4E185C008A2637 /* JBMusico.cpp */; };
+		9DEF22D81B4E185C008A2637 /* JBQuartetoJazz.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF22CC1B4E185C008A2637 /* JBQuartetoJazz.cpp */; };
+		9DEF22D91B4E185C008A2637 /* JBSolista.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF22CE1B4E185C008A2637 /* JBSolista.cpp */; };
+		9DEF22DA1B4E185C008A2637 /* JBSoprista.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF22D01B4E185C008A2637 /* JBSoprista.cpp */; };
+		9DEF22DB1B4E185C008A2637 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF22D21B4E185C008A2637 /* main.cpp */; };
+		9DF1498A1B5FE65800F1E4E9 /* JBContadorDeTempos.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DF149881B5FE65800F1E4E9 /* JBContadorDeTempos.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		9DEF22B61B4E1846008A2637 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		9DEF22B81B4E1846008A2637 /* JammingBand */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = JammingBand; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DEF22C21B4E185C008A2637 /* JBAcentosEstilo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JBAcentosEstilo.cpp; path = ../JBAcentosEstilo.cpp; sourceTree = "<group>"; };
+		9DEF22C31B4E185C008A2637 /* JBAcentosEstilo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JBAcentosEstilo.h; path = ../JBAcentosEstilo.h; sourceTree = "<group>"; };
+		9DEF22C41B4E185C008A2637 /* JBBanda.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JBBanda.cpp; path = ../JBBanda.cpp; sourceTree = "<group>"; };
+		9DEF22C51B4E185C008A2637 /* JBBanda.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JBBanda.h; path = ../JBBanda.h; sourceTree = "<group>"; };
+		9DEF22C61B4E185C008A2637 /* JBEstilos.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JBEstilos.cpp; path = ../JBEstilos.cpp; sourceTree = "<group>"; };
+		9DEF22C71B4E185C008A2637 /* JBEstilos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JBEstilos.h; path = ../JBEstilos.h; sourceTree = "<group>"; };
+		9DEF22C81B4E185C008A2637 /* JBForro.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JBForro.cpp; path = ../JBForro.cpp; sourceTree = "<group>"; };
+		9DEF22C91B4E185C008A2637 /* JBForro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JBForro.h; path = ../JBForro.h; sourceTree = "<group>"; };
+		9DEF22CA1B4E185C008A2637 /* JBMusico.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JBMusico.cpp; path = ../JBMusico.cpp; sourceTree = "<group>"; };
+		9DEF22CB1B4E185C008A2637 /* JBMusico.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JBMusico.h; path = ../JBMusico.h; sourceTree = "<group>"; };
+		9DEF22CC1B4E185C008A2637 /* JBQuartetoJazz.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JBQuartetoJazz.cpp; path = ../JBQuartetoJazz.cpp; sourceTree = "<group>"; };
+		9DEF22CD1B4E185C008A2637 /* JBQuartetoJazz.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JBQuartetoJazz.h; path = ../JBQuartetoJazz.h; sourceTree = "<group>"; };
+		9DEF22CE1B4E185C008A2637 /* JBSolista.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JBSolista.cpp; path = ../JBSolista.cpp; sourceTree = "<group>"; };
+		9DEF22CF1B4E185C008A2637 /* JBSolista.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JBSolista.h; path = ../JBSolista.h; sourceTree = "<group>"; };
+		9DEF22D01B4E185C008A2637 /* JBSoprista.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = JBSoprista.cpp; path = ../JBSoprista.cpp; sourceTree = "<group>"; };
+		9DEF22D11B4E185C008A2637 /* JBSoprista.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JBSoprista.h; path = ../JBSoprista.h; sourceTree = "<group>"; };
+		9DEF22D21B4E185C008A2637 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = ../main.cpp; sourceTree = "<group>"; };
+		9DF149881B5FE65800F1E4E9 /* JBContadorDeTempos.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JBContadorDeTempos.cpp; sourceTree = SOURCE_ROOT; };
+		9DF149891B5FE65800F1E4E9 /* JBContadorDeTempos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JBContadorDeTempos.h; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9DEF22B51B4E1846008A2637 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9DEF22AF1B4E1846008A2637 = {
+			isa = PBXGroup;
+			children = (
+				9DEF22BA1B4E1846008A2637 /* JammingBand */,
+				9DEF22B91B4E1846008A2637 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9DEF22B91B4E1846008A2637 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9DEF22B81B4E1846008A2637 /* JammingBand */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9DEF22BA1B4E1846008A2637 /* JammingBand */ = {
+			isa = PBXGroup;
+			children = (
+				9DEF22C21B4E185C008A2637 /* JBAcentosEstilo.cpp */,
+				9DEF22C31B4E185C008A2637 /* JBAcentosEstilo.h */,
+				9DEF22C41B4E185C008A2637 /* JBBanda.cpp */,
+				9DEF22C51B4E185C008A2637 /* JBBanda.h */,
+				9DEF22C61B4E185C008A2637 /* JBEstilos.cpp */,
+				9DEF22C71B4E185C008A2637 /* JBEstilos.h */,
+				9DEF22C81B4E185C008A2637 /* JBForro.cpp */,
+				9DEF22C91B4E185C008A2637 /* JBForro.h */,
+				9DF149881B5FE65800F1E4E9 /* JBContadorDeTempos.cpp */,
+				9DF149891B5FE65800F1E4E9 /* JBContadorDeTempos.h */,
+				9DEF22CA1B4E185C008A2637 /* JBMusico.cpp */,
+				9DEF22CB1B4E185C008A2637 /* JBMusico.h */,
+				9DEF22CC1B4E185C008A2637 /* JBQuartetoJazz.cpp */,
+				9DEF22CD1B4E185C008A2637 /* JBQuartetoJazz.h */,
+				9DEF22CE1B4E185C008A2637 /* JBSolista.cpp */,
+				9DEF22CF1B4E185C008A2637 /* JBSolista.h */,
+				9DEF22D01B4E185C008A2637 /* JBSoprista.cpp */,
+				9DEF22D11B4E185C008A2637 /* JBSoprista.h */,
+				9DEF22D21B4E185C008A2637 /* main.cpp */,
+			);
+			path = JammingBand;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9DEF22B71B4E1846008A2637 /* JammingBand */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DEF22BF1B4E1846008A2637 /* Build configuration list for PBXNativeTarget "JammingBand" */;
+			buildPhases = (
+				9DEF22B41B4E1846008A2637 /* Sources */,
+				9DEF22B51B4E1846008A2637 /* Frameworks */,
+				9DEF22B61B4E1846008A2637 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JammingBand;
+			productName = JammingBand;
+			productReference = 9DEF22B81B4E1846008A2637 /* JammingBand */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9DEF22B01B4E1846008A2637 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = Lajotas;
+				TargetAttributes = {
+					9DEF22B71B4E1846008A2637 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+				};
+			};
+			buildConfigurationList = 9DEF22B31B4E1846008A2637 /* Build configuration list for PBXProject "JammingBand" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9DEF22AF1B4E1846008A2637;
+			productRefGroup = 9DEF22B91B4E1846008A2637 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9DEF22B71B4E1846008A2637 /* JammingBand */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9DEF22B41B4E1846008A2637 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DEF22D41B4E185C008A2637 /* JBBanda.cpp in Sources */,
+				9DEF22D91B4E185C008A2637 /* JBSolista.cpp in Sources */,
+				9DEF22D71B4E185C008A2637 /* JBMusico.cpp in Sources */,
+				9DEF22DA1B4E185C008A2637 /* JBSoprista.cpp in Sources */,
+				9DF1498A1B5FE65800F1E4E9 /* JBContadorDeTempos.cpp in Sources */,
+				9DEF22D51B4E185C008A2637 /* JBEstilos.cpp in Sources */,
+				9DEF22D81B4E185C008A2637 /* JBQuartetoJazz.cpp in Sources */,
+				9DEF22D61B4E185C008A2637 /* JBForro.cpp in Sources */,
+				9DEF22DB1B4E185C008A2637 /* main.cpp in Sources */,
+				9DEF22D31B4E185C008A2637 /* JBAcentosEstilo.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		9DEF22BD1B4E1846008A2637 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		9DEF22BE1B4E1846008A2637 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		9DEF22C01B4E1846008A2637 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN__EXIT_TIME_DESTRUCTORS = YES;
+				GCC_WARN_HIDDEN_VIRTUAL_FUNCTIONS = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		9DEF22C11B4E1846008A2637 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN__EXIT_TIME_DESTRUCTORS = YES;
+				GCC_WARN_HIDDEN_VIRTUAL_FUNCTIONS = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9DEF22B31B4E1846008A2637 /* Build configuration list for PBXProject "JammingBand" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DEF22BD1B4E1846008A2637 /* Debug */,
+				9DEF22BE1B4E1846008A2637 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DEF22BF1B4E1846008A2637 /* Build configuration list for PBXNativeTarget "JammingBand" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DEF22C01B4E1846008A2637 /* Debug */,
+				9DEF22C11B4E1846008A2637 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9DEF22B01B4E1846008A2637 /* Project object */;
+}
